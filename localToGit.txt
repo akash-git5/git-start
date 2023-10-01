@@ -1,0 +1,21 @@
+
+
+
+
+1) Already have a project on local machine
+2) open that in VS Code
+3) go to terminal
+4) [ git init ]
+5) [ git add . ]
+6) [ git commit -m "msg" ]
+7) got to github ---> create a new repo
+8) copy url
+9) git remote add origin url
+10) [ git remote -v ] => (to varify remote)
+11) [ git branch ] => (to chech branch)
+
+    // if branch is -> *main (then don't follow step-12)
+    // if branch is -> *master (then only follow step-12)
+
+12) [ git branch -M main ] => (to rename branch)
+13) git push origin main
