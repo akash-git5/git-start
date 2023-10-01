@@ -1,0 +1,25 @@
+
+
+
+// In between the connection established by either of the way (git-to-local OR local-to-git)
+// Now if you do any changes in the file/folder then follow the follwing steps ...
+
+1) do changes
+2) [ git add . ]
+3) [ git commit -m "msg" ]
+4) [ git push origin main ]
+
+
+
+
+// If a project folder was already initialized with git.After few days you again
+// open it and want to do some changes in it. 
+// Then no need to [git init] again as it has been already done before and git is 
+// tracking the project.In that case just follow the steps mentioned above after changes.
+
+
+// ** to check if any project is tracked by Git or not just do ---
+//    open terminal -> [ls -a] :
+//    if you see a file (.git), means git is initialized and it is tracked by git.
+//    else git is not initialized and git not tracking the project. You need to
+//    do [git init]
