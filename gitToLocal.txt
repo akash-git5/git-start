@@ -1,0 +1,16 @@
+
+
+
+// FROM GITHUB TO LOCAL MACHINE ... //
+
+1) Create a new REPO 
+2) Copy HTTP url 
+3) Open VsCode
+4) Open terminal (in VsCode)
+5) [git clone url]
+6) cd to clone-file-name
+7) Do changes (create file, modifiy etc.)
+
+8) [git add .]
+9) [git commit -m "msg"]
+10) git push origin main
