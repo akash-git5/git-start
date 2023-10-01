@@ -1,6 +1,8 @@
 
 
 
+// // FROM LOCAL MACHINE TO GITHUB ... //
+
 
 1) Already have a project on local machine
 2) open that in VS Code
